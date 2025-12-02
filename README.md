@@ -36,6 +36,10 @@ The project uses a dataset containing retail transaction details, including:
 - Explore correlations between payment methods and product categories.
 - Create dashboards for visual representation of insights.
 
+## Author
+Nafih Muhammed
+LinkedIn: https://www.linkedin.com/in/nafihmuhammed/
+
 ## How to Run
 1. Clone the repository:
 ```bash
