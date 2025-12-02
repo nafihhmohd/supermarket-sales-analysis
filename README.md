@@ -38,7 +38,8 @@ The project uses a dataset containing retail transaction details, including:
 
 ## Author
 Nafih Muhammed
-LinkedIn: https://www.linkedin.com/in/nafihmuhammed/
+
+LinkedIn: https://www.linkedin.com/in/nafihhmohd/
 
 ## How to Run
 1. Clone the repository:
